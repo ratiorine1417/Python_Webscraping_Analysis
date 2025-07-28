@@ -17,3 +17,4 @@ def count_word():
         print(f"{word}: {freq}번")
 
 count_word()
+# 다른 방법: pandas value_counts 사용
